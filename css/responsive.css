@@ -1,0 +1,190 @@
+@media only screen and (min-width:1700px) and (max-width:1799px)
+{	
+	
+}
+@media only screen and (min-width:1600px) and (max-width:1699px)
+{	
+	
+}
+@media only screen and (min-width:1500px) and (max-width:1599px)
+{	
+	
+}
+@media only screen and (min-width:1400px) and (max-width:1499px)
+{	
+	
+}
+@media only screen and (min-width:1300px) and (max-width:1399px)
+{	
+	.homebannerimg {height: 600px;}
+	.homebannercont h1{font-size: 6rem;}
+	.homemanibanner .swiper-button-next, .homemanibanner .swiper-button-prev{width: 6rem;height: 6rem;}
+	.homemanibanner .swiper-button-next:after, .homemanibanner .swiper-button-prev:after{font-size: 2rem;}
+	.what-wedo-rightsect .truck-2{max-width: 600px;}
+	.wide-soluation-section{background-position: right;}
+}
+@media only screen and (min-width:1200px) and (max-width:1299px)
+{	
+	.homebannerimg {height: 600px;}
+	.homebannercont h1{font-size: 6rem;}
+	.homemanibanner .swiper-button-next, .homemanibanner .swiper-button-prev{width: 6rem;height: 6rem;}
+	.homemanibanner .swiper-button-next:after, .homemanibanner .swiper-button-prev:after{font-size: 2rem;}
+	.what-wedo-rightsect .truck-2{max-width: 600px;}
+	.wide-soluation-section{background-position: right;}
+	#cssmenu > ul > li > a{font-size: 17px;}
+	.hedfreedev{font-size: 14px;}
+}
+@media only screen and (min-width:1025px) and (max-width:1199px)
+{	
+	
+	.homebannerimg {height: 500px;}
+	.homebannercont h1{font-size: 6rem;}
+	.homemanibanner .swiper-button-next, .homemanibanner .swiper-button-prev{width: 6rem;height: 6rem;}
+	.homemanibanner .swiper-button-next:after, .homemanibanner .swiper-button-prev:after{font-size: 2rem;}
+	.what-wedo-rightsect .truck-2{max-width: 100%;}
+	.wide-soluation-section{background-position: right;}
+	#cssmenu > ul > li > a{font-size: 16px;margin: 0px 13px;}
+	.hedfreedev{font-size: 14px;}
+	.hedlogo {max-width: 190px;}
+	.why-choose-right .why-choose-media1{max-width: 460px;}
+	.mb100 {margin-bottom: 60px;}
+	.services-section{padding-top: 60px;}
+	.ftcontsec img{max-width: 60%;}
+	.ftrlogosec br{display: none;}
+	.wide-img img {width: 130px;height: 100px;object-fit: contain;}
+	.wide-section-block-content{padding: 10px}
+	.wide-section-block-content h6{font-size: 40px;}
+	.wide-box-inner{height: 580px;}
+
+
+}
+@media only screen and (max-width: 1024px)
+{	
+	
+	.homebannerimg {height: 500px;}
+	.homebannercont h1{font-size: 6rem;}
+	.homemanibanner .swiper-button-next, .homemanibanner .swiper-button-prev{width: 6rem;height: 6rem;}
+	.homemanibanner .swiper-button-next:after, .homemanibanner .swiper-button-prev:after{font-size: 2rem;}
+	.what-wedo-rightsect .truck-2{max-width: 100%;}
+	.mb100 {margin-bottom: 60px;}
+	.services-section{padding-top: 60px;}
+	.ftcontsec img{max-width: 60%;}
+	.wide-title{align-items: flex-start;}
+	.ftrlogosec br{display: none;}
+	.hedlogo {max-width: 180px;}
+
+	.sticky #cssmenu #menu-button::before{border-top: 3px solid #000;border-bottom: 3px solid #000;}
+	.sticky #cssmenu #menu-button::after{background: #000;}
+	#cssmenu > ul > li > a{font-size: 15px;}
+	.why-choose-right .why-choose-media1{max-width: 470px;}
+	.wide-img img {width: 130px;height: 100px;object-fit: contain;}
+	.highlight-text-wrap .hilite-text span{font-size: 50px;}
+	.top-small-title h2{font-size: 35px;}
+	
+
+
+}
+@media only screen and (min-width:992px) and (max-width:1024px)
+{	
+	
+
+}
+@media only screen and (max-width: 991px)
+{	
+	
+	.homemanibanner .container, .tophedpart .container{max-width: 100%;}
+	br{display: none;}
+	.main-title h2, .wide-section-block-content h6{font-size: 30px;}
+	.top-small-title h2 {font-size: 27px;margin-bottom: 0px;}
+	.what-wedo-rightsect .truck-2{position: relative;}
+	.service-icon-box-wrap3{margin-bottom: 40px;}
+	.what-wedo-rightsect .truck-2-bg{left: 244px;}
+	.wide-title { display: block;}
+	.widsolu-descript, .wide-box-inner{margin-bottom: 30px;}
+	.wide-soluation-section{padding-bottom: 0px;}
+	.wide-box-inner{height: 600px;}
+	.ftmiddsec .col-md-6{margin-bottom: 30px;}
+
+
+
+}
+@media only screen and (min-width: 768px) and (max-width: 991px)
+{	
+	
+}
+@media only screen and (max-width: 767px)
+{	
+	
+
+	.why-choose-right .why-choose-media1 {max-width: 440px;}
+	.why-choose-right .why-choose-media2{max-width: 290px;}
+	.service-inner-section { margin-bottom: 25px;}
+	.service-icon-box-wrap3 {margin-bottom: 70px;}
+	.highlight-text-wrap .hilite-text.right {bottom: -55px;}
+	.ftr-nw-content{margin-left: 0px;}
+	.ftr-news-img{position: relative;}
+	.ftr-nw-content{display: block;}
+	.ftr-nw-title{margin-bottom: 20px;}
+    .ftr-nw-ltr {padding-top: 74px;}
+    .ftmiddsec {padding-bottom: 0;}
+    .ftcontsec img {max-width: 50%;}
+
+}	
+@media only screen and (min-width: 640px) and (max-width: 767px)
+{	
+	
+}
+@media only screen and (max-width: 639px)
+{	
+	.wide-box-inner { height: 500px;}
+	.wide-section-block-content{bottom: 15px;}
+	.homebannerimg {height: 350px;}
+	.homemanibanner .swiper-button-next, .homemanibanner .swiper-button-prev{ width: 5rem;height: 5rem;}
+	.homemanibanner .swiper-button-prev{right: 11rem;}
+	.homebannercont{max-width: 40rem;}
+	.homebannercont h1 { font-size: 4rem;}
+}
+@media only screen and (min-width: 576px) and (max-width: 639px)
+{	
+	
+}
+@media only screen and (max-width: 575px)
+{	
+	
+
+.homebannerimg {height: 300px;}
+.why-choose-right .why-choose-media1{max-width: 380px;height: auto;margin-bottom: 30px;}
+.why-choose-right .why-choose-media2{max-width: 260px;}
+.highlight-text-wrap .hilite-text span {font-size: 30px;}
+
+}
+@media only screen and (max-width: 479px)
+{	
+	
+
+.hedfreedev {display: none;}
+.hedlocdev {justify-content: flex-end;}
+
+	
+}
+@media only screen and (max-width: 399px) 
+{	
+	.ftr-nw-title{font-size: 26px;}
+	.what-wedo-rightsect .truck-2{right: 0;}
+	.why-choose-right .why-choose-media2 {max-width: 180px;}
+	.why-choose-right .why-choose-media1 {max-width: 270px;}
+	.why-choose-right .why-choose-media2:after{border-right: 30px solid var(--ftwhite);border-bottom: 30px solid var(--ftwhite);right: -29px;
+    bottom: -29px;}
+    .service-icon-box-three .service-icon-box-three-img{float: none;}
+     .service-icon-box-three{display: block;}
+
+
+}
+@media only screen and (max-width: 359px) 
+{
+   .top-small-title h2 {font-size: 23px;}
+   .main-title h2, .wide-section-block-content h6 { font-size: 24px;}
+   .service-icon-box-three{display: block;}
+   .service-icon-box-three .service-icon-box-three-img{float: none;}
+}
+img {max-width: 100%; height: auto;}
